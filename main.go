@@ -63,6 +63,7 @@ func descriptFile(file *os.File) {
 	}
 }
 
+//Func main
 func main() {
 	path := os.Args[1]
 	//var gb gameboy
